@@ -10,9 +10,9 @@
 
 <p>他是我的室友 他每天都在宿舍健身</p>
 <p>他很常去團契的活動 會到很晚才回來</p>
-<p>我想他應該是去約會了</p>
+    <p>我想他應該是去約會了</p>
 
-<img src="https://shoplineimg.com/media/67c569d0b4afec000b56bd45/original.webp?source_format=jpg" 
+    <img src="https://shoplineimg.com/media/67c569d0b4afec000b56bd45/original.webp?source_format=jpg" 
 alt="bear" width="200"/>
 
 </body>
